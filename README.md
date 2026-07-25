@@ -38,7 +38,7 @@ Piezoelectric materials are at the core of the energy-harvesting system. These m
 *(Here we arranged the piezoelectric discs and wired them to capture the maximum voltage)*
 ![Piezo Grid](piezo-grid.jpg) 
 <br>
-![Wired Prototype](wired-prototype.jpg)
+![Wired Prototype](prototype.jpg)
 
 ### 3. Detailed Project Specifications
 ![Project Banner](banner.jpg)
